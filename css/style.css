@@ -1,0 +1,35 @@
+h2{
+    margin: 0;
+}
+.logo{
+    background-color: gray;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.container{
+    overflow: hidden;
+}
+.side-nav{
+    background-color: white;
+    height: 500px;
+    width: 30%;
+    float: left;
+}
+.containers{
+    width: 65%;
+    float: right;
+}
+.header{
+    background-color: gray;
+    margin-bottom: 10px;
+    height: 150px;
+}
+.body{
+    background-color: gray;
+    height: 340px;
+}
+.footer{
+    background-color: gray;
+    margin-top: 10px;
+    height: 100px;
+}
